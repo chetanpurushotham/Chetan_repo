@@ -1,2 +1,5 @@
 This is my first git lab
 hello git
+
+hi repository(typed in github)
+i am chetan
